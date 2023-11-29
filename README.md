@@ -2,6 +2,7 @@
 
 📫 contact me via <a href="mailto:joshua@wakelin.net"> email </a> here
 
+👀 view my expirence below
 
 <!--
 **joshwakelin/joshwakelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
