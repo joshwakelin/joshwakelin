@@ -1,6 +1,6 @@
 👋 hello! i'm <a href="https://joshwakelin.dev"> joshua wakelin </a> , a passionate software engineer from 🇨🇦 canada. i spend my free time improving my skills and branching out to new languages and concepts. i do freelance software work and passion projects. 
 
-📫 contact me via email here
+📫 contact me via <a href="mailto:joshua@wakelin.net"> email </a> here
 
 
 <!--
