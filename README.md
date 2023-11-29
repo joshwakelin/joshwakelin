@@ -1,5 +1,4 @@
-### Hi there 
-👋
+👋 hello! i'm joshua wakelin, a passionate software engineer from 🇨🇦 canada. i spend my free time improving my skills and branching out to new languages and concepts. 
 
 <!--
 **joshwakelin/joshwakelin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
