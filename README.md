@@ -1,6 +1,7 @@
 👋 Hey! I'm <a href="https://joshwakelin.dev"> Joshua Wakelin</a>. I'm a passionate Software Developer, Network Architect and AI Engineer. I spend my free time improving my skills and branching out to new languages and concepts. 
 
 🔒 Check out Crac.ai, my Artifical Intelligence Security company specialising in fraud detection on the blockchain! 
+
 📫 Contact me via <a href="mailto:joshua@wakelin.net"> Email </a> here
 
 
