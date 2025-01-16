@@ -1,6 +1,6 @@
 👋 Hey! I'm <a href="https://joshwakelin.dev"> Joshua Wakelin</a>. I'm an aspiring Software Developer, Data Architect and AI Engineer. I spend my free time improving my skills and branching out to new languages and concepts. 
 
-🔒 Check out <a href="https://chainguarder.com">Chainguarder</a>, my Artifical Intelligence Security project specialising in fraud detection on the blockchain! 
+🔒 Check out <a href="https://chainguarder.com" target="_blank">Chainguarder</a>, my Artifical Intelligence Security project specialising in fraud detection on the blockchain! 
 
 📫 Contact me via <a href="mailto:joshua@wakelin.net"> Email </a> here
 
